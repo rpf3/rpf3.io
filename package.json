@@ -1,0 +1,22 @@
+{
+  "name": "rpf3",
+  "version": "1.0.0",
+  "description": "rpf3.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rpf3/rpf3.io.git"
+  },
+  "author": "rpf3",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rpf3/rpf3.io/issues"
+  },
+  "homepage": "https://github.com/rpf3/rpf3.io",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}
